@@ -104,7 +104,7 @@ Follow these steps to set up your development environment and start using Playwr
 ### Installation Steps
 To start using the framework:
 
-1. [Fork]() the repository.
+1. [Fork](https://github.com/MuHIUDDIn98/Playwright-Tutorial-with-java.git) the repository.
 2. Clone, i.e, download your copy of the repository to your local machine using
 ```
 git clone https://github.com/ebrahimhossaincse/Playwright-Tutorials-Java.git
@@ -272,4 +272,4 @@ Special thanks to the contributors and the Playwright community for their valuab
 For questions or feedback, please feel free to reach out:
 
 1. Maintainer: [MD Muhiuddin]()
-2. Project Link:[Playwright-Tutorials-Java](https://github.com/ebrahimhossaincse/Playwright-Tutorials-Java) 
+2. Project Link:[Playwright-Tutorials-Java](https://github.com/MuHIUDDIn98/Playwright-Tutorial-with-java.git) 
