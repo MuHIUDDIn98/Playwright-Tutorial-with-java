@@ -107,7 +107,7 @@ To start using the framework:
 1. [Fork](https://github.com/MuHIUDDIn98/Playwright-Tutorial-with-java.git) the repository.
 2. Clone, i.e, download your copy of the repository to your local machine using
 ```
-git clone https://github.com/ebrahimhossaincse/Playwright-Tutorials-Java.git
+git clone https://github.com/MuHIUDDIn98/Playwright-Tutorial-with-java.git
 ```
 3. Import the project into your preferred IDE (Eclipse, IntelliJ IDEA, or Spring Tools).
 4. Make any desired changes or additions to the project.
